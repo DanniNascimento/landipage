@@ -4,15 +4,13 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Funcionalidades](#funcionalidades)   
-
 * [Como Usar](#como-usar)
 * [Contribuição](#contribuição)
-* [Licença](#licença)
 
 ## :rocket: Descrição do Projeto
 Esta landing page foi desenvolvida para divulgar um curso gratuito de introdução à tecnologia, oferecendo o primeiro passo para quem deseja iniciar uma carreira nessa área promissora.
 
-**Objetivo:** Atrair novos alunos para o curso gratuito da DNC School.
+**Objetivo:** Atrair novos alunos para o curso Engenharia de Software da DNC School.
 
 **Funcionalidades:**
 
@@ -35,7 +33,8 @@ Esta landing page foi desenvolvida para divulgar um curso gratuito de introduç�
 ##  Contribuição
 No momento, este projeto não está aberto para contribuições.
 
-**Imagem da Landing Page:**![Imagem da Landing Page](https://github.com/DanniNascimento/landipage/blob/main/Landing%20Page.jpg/raw)
+**Imagem da Landing Page:**
+![Imagem da Landing Page](img/landipagepronto.png)
 
 **Chamada para Ação:**
 Não perca essa oportunidade de dar o primeiro passo na sua jornada na área da tecnologia! Inscreva-se agora mesmo e comece a aprender!
